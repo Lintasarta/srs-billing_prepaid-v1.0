@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: srs-billing-prepaid
+  description: SRS Billing Prepaid
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: Lintasarta/srs-billing_prepaid-v1.0
+    # PERHATIKAN INDENTASI: Baris di bawah if harus sejajar dengan github.com...
+spec:
+  type: service
+  lifecycle: production
+  owner: user:default/afi
