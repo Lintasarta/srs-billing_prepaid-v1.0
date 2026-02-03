@@ -1,0 +1,3 @@
+# Product Overview
+
+The Prepaid Billing System is designed to be the default payment model for all customers on the service portal. It operates on a pay-as-you-go basis, where customers must maintain a positive deposit balance to create and utilize services. The system automatically deducts charges for active services from the customer's deposit daily. This model provides customers with flexibility and control over their spending, as they can only consume services for which they have pre-paid. The system is intended for Small Medium Enterprises (SMEs) and aims to provide transparency through detailed summaries of service usage and daily costs.

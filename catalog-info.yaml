@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: srs-billing-prepaid
   description: SRS Billing Prepaid
+  tags: ["srs"]
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Lintasarta/srs-billing_prepaid-v1.0
